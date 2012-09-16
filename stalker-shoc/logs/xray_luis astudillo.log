@@ -1,0 +1,298 @@
+* Detected CPU: GenuineIntel Pentium-III, F6/M7/S6, 1990.00 mhz, 32-clk 'rdtsc'
+* CPU Features: RDTSC, MMX, SSE, SSE2
+
+Initializing File System...
+using fs-ltx fsgame.ltx
+--found external arch mp_military_2.xdb0
+FS: 30223 files cached, 5713Kb memory used.
+Init FileSystem 2.429853 sec
+'xrCore' build 3188, Oct 26 2007
+
+Initializing Engine...
+Executing config-script "user.ltx"...
+[c:\documents and settings\all users\documents\stalker-shoc\user.ltx] successfully loaded.
+Starting INPUT device...
+Loading DLL: xrRender_R1.dll
+Loading DLL: xrGame.dll
+! Unable to find InstallUserName entry in registry
+* [win32]: free[1995780 K], reserved[21392 K], committed[79916 K]
+* [ D3D ]: textures[0 K]
+* [x-ray]: crt heap[7517 K], process heap[3106 K], game lua[0 K], engine lua[0 K], render[0 K]
+* [x-ray]: economy: strings[1032 K], smem[0 K]
+Executing config-script "c:\program files\steam\steamapps\common\stalker shadow of chernobyl\gamedata\config\default_controls.ltx"...
+[c:\program files\steam\steamapps\common\stalker shadow of chernobyl\gamedata\config\default_controls.ltx] successfully loaded.
+Executing config-script "user.ltx"...
+Executing config-script "c:\program files\steam\steamapps\common\stalker shadow of chernobyl\gamedata\config\rspec_default.ltx"...
+! Unknown command:  r__wallmark_ttl
+! Unknown command:  rs_skeleton_update
+[c:\program files\steam\steamapps\common\stalker shadow of chernobyl\gamedata\config\rspec_default.ltx] successfully loaded.
+Executing config-script "c:\program files\steam\steamapps\common\stalker shadow of chernobyl\gamedata\config\default_controls.ltx"...
+[c:\program files\steam\steamapps\common\stalker shadow of chernobyl\gamedata\config\default_controls.ltx] successfully loaded.
+[c:\documents and settings\all users\documents\stalker-shoc\user.ltx] successfully loaded.
+SOUND: OpenAL: enumerate devices...
+SOUND: OpenAL: EnumerationExtension Present
+devices Generic Hardware
+SOUND: OpenAL: system  default SndDevice name is Generic Hardware
+SOUND: OpenAL: default SndDevice name set to Generic Software
+SOUND: OpenAL: All available devices:
+1. Generic Hardware, Spec Version 1.1 
+2. Generic Software, Spec Version 1.1 (default)
+SOUND: OpenAL: SelectBestDevice is Generic Software 1.1
+SOUND: OpenAL: Required device: Generic Software. Created device: Generic Software.
+* sound: EAX 2.0 extension: absent
+* sound: EAX 2.0 deferred: absent
+* sound : cache: 32773 kb, 3805 lines, 8820 bpl
+Starting RENDER device...
+* GPU [vendor:10DE]-[device:863]: NVIDIA GeForce 9400M
+* GPU driver: 6.14.11.7644
+* CREATE: DeviceREF: 1
+* Vertex Processor: PURE HARDWARE
+*     Texture memory: 614 M
+*          DDI-level: 9.0
+* GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+* GPU vertex cache: unrecognized, 16
+* DVB created: 1536K
+* DIB created: 512K
+count of .thm files=4
+load time=121 ms
+* distortion: used, dev(30),need(14)
+* SSample: 1024x768
+* SSample: enabled
+- r__tf_aniso 4
+- r1_tf_mipbias 0.
+Starting engine...
+Loading DLL: xrGameSpy.dll
+* DVB created: 1536K
+* DIB created: 512K
+- r__tf_aniso 4
+- r1_tf_mipbias 0.
+* SSample: 1024x768
+* SSample: enabled
+* GPU shading: vs(fffe0300/3.0/30), ps(ffff0300/3.0/30)
+* GPU vertex cache: recognized, 24
+*** RESET [168 ms]
+"c:\program files\steam\steamapps\common\stalker shadow of chernobyl\bin\xr_3da.exe"
+* phase time: 0 ms
+* phase cmem: 83863 K
+Buscando objetos con antelación...
+Loading objects...
+Loading models...
+* [prefetch] time:    14080 ms
+* [prefetch] memory:  84913Kb
+* phase time: 14155 ms
+* phase cmem: 157906 K
+SERVIDOR: iniciando...
+* phase time: 104 ms
+* phase cmem: 144485 K
+SERVIDOR: cargando simulador activo...
+* phase time: 7 ms
+* phase cmem: 144485 K
+Creando juego nuevo...
+* Creating new game...
+* Loading spawn registry...
+* 8641 spawn points are successfully loaded
+* Saving spawns...
+* Saving objects...
+* 16817 objects are successfully saved
+* Game all.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\all.sav'
+* New game is successfully created!
+* phase time: 5615 ms
+* phase cmem: 174301 K
+SERVIDOR: conectando...
+MaxPlayers = 32
+* phase time: 48 ms
+* phase cmem: 174301 K
+CLIENTE: conectando a localhost...
+# Player not found. New player created.
+* client : connection accepted - <>
+* phase time: 47 ms
+* phase cmem: 174326 K
+Abriendo secuencia...
+* phase time: 22 ms
+* phase cmem: 174326 K
+Cargando CFORM...
+* phase time: 5563 ms
+* phase cmem: 246993 K
+Cargando tonos...
+* phase time: 505 ms
+* phase cmem: 248127 K
+Cargando geometría...
+* [Loading VB] 65532 verts, 2047 Kb
+* [Loading VB] 65525 verts, 2047 Kb
+* [Loading VB] 65535 verts, 2047 Kb
+* [Loading VB] 65466 verts, 2045 Kb
+* [Loading VB] 17208 verts, 537 Kb
+* [Loading VB] 65533 verts, 2047 Kb
+* [Loading VB] 65534 verts, 2047 Kb
+* [Loading VB] 65534 verts, 2047 Kb
+* [Loading VB] 65531 verts, 2047 Kb
+* [Loading VB] 65535 verts, 2047 Kb
+* [Loading VB] 65535 verts, 2047 Kb
+* [Loading VB] 46595 verts, 1456 Kb
+* [Loading VB] 65534 verts, 2047 Kb
+* [Loading VB] 65533 verts, 2047 Kb
+* [Loading VB] 65535 verts, 2047 Kb
+* [Loading VB] 65532 verts, 2047 Kb
+* [Loading VB] 65533 verts, 2047 Kb
+* [Loading VB] 65533 verts, 2047 Kb
+* [Loading VB] 53181 verts, 1661 Kb
+* [Loading IB] 1048575 indices, 2047 Kb
+* [Loading IB] 1048572 indices, 2047 Kb
+* [Loading IB] 1048572 indices, 2047 Kb
+* [Loading IB] 1048572 indices, 2047 Kb
+* [Loading IB] 1048572 indices, 2047 Kb
+* [Loading IB] 1048572 indices, 2047 Kb
+* [Loading IB] 1048575 indices, 2047 Kb
+* [Loading IB] 1048572 indices, 2047 Kb
+* [Loading IB] 1048575 indices, 2047 Kb
+* [Loading IB] 228285 indices, 445 Kb
+* phase time: 1162 ms
+* phase cmem: 248515 K
+Cargando base de datos espacial...
+* phase time: 919 ms
+* phase cmem: 252470 K
+Cargando detalles...
+* [DETAILS] VertexConsts(256), Batch(61)
+* [DETAILS] 40687 v(20), 26352 p
+* [DETAILS] Batch(61), VB(794K), IB(154K)
+* phase time: 120 ms
+* phase cmem: 252513 K
+Cargando sectores y portales...
+* Loading HOM: c:\program files\steam\steamapps\common\stalker shadow of chernobyl\gamedata\levels\l01_escape\level.hom
+* phase time: 25 ms
+* phase cmem: 252686 K
+Cargando objetos IA...
+- Loading music tracks from 'l01_escape_musics'...
+* phase time: 149 ms
+* phase cmem: 252741 K
+CLIENTE: generando...
+- Game configuring : Started 
+- Game configuring : Finished 
+* phase time: 474 ms
+* phase cmem: 260596 K
+Cargando texturas...
+* t-report - base: 865, 249901 K
+* t-report - lmap: 10, 10241 K
+***FATAL***: Too many lmap-textures (limit: 8 textures or 32M).
+        Reduce pixel density (worse) or use more vertex lighting (better).
+* phase time: 5416 ms
+* phase cmem: 260596 K
+CLIENTE: sincronizando...
+* phase time: 29 ms
+* phase cmem: 260612 K
+* [win32]: free[1035400 K], reserved[261584 K], committed[800104 K]
+* [ D3D ]: textures[260142 K]
+* [x-ray]: crt heap[260612 K], process heap[389354 K], game lua[25846 K], engine lua[243 K], render[0 K]
+* [x-ray]: economy: strings[3715 K], smem[28221 K]
+Intro start 11318
+* MEMORY USAGE: 280263 K
+* Saving spawns...
+* Saving objects...
+* 17194 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17275 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17265 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17366 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17420 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* phase time: 140 ms
+* phase cmem: 283941 K
+SERVIDOR: cargando simulador activo...
+* phase time: 12 ms
+* phase cmem: 283941 K
+Cargando juego guardado "luis astudillo_quicksave.sav"...
+* Loading spawn registry...
+* 8641 spawn points are successfully loaded
+* Loading objects...
+* 17420 objects are successfully loaded
+* Game luis astudillo_quicksave is successfully loaded from file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav' (2.759s)
+* phase time: 2758 ms
+* phase cmem: 285959 K
+SERVIDOR: conectando...
+* phase time: 11 ms
+* phase cmem: 285959 K
+CLIENTE: sincronizando...
+* phase time: 10 ms
+* phase cmem: 285959 K
+* [win32]: free[1017208 K], reserved[232184 K], committed[847696 K]
+* [ D3D ]: textures[266360 K]
+* [x-ray]: crt heap[282673 K], process heap[396253 K], game lua[21979 K], engine lua[247 K], render[1858 K]
+* [x-ray]: economy: strings[13524 K], smem[28208 K]
+* MEMORY USAGE: 295753 K
+* Saving spawns...
+* Saving objects...
+* 17434 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17449 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17498 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17487 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17485 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17482 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17479 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17478 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17497 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+* Saving spawns...
+* Saving objects...
+* 17504 objects are successfully saved
+* Game Luis Astudillo_quicksave.sav is successfully saved to file 'c:\documents and settings\all users\documents\stalker-shoc\savedgames\luis astudillo_quicksave.sav'
+- Disconnect
+- Destroying level
+DestroySingleton::RefCounter: 0
+DestroySingleton::RefCounter: 0
+DestroySingleton::RefCounter: 0
+DestroySingleton::RefCounter: 0
+DestroySingleton::RefCounter: 0
+Input:  1
+Config-file [c:\documents and settings\all users\documents\stalker-shoc\user.ltx] saved successfully
+Destroying Direct3D...
+* RM_Dump: textures  : 0
+* RM_Dump: rtargets  : 0
+* RM_Dump: rtargetsc : 0
+* RM_Dump: vs        : 0
+* RM_Dump: ps        : 0
+* RM_Dump: dcl       : 0
+* RM_Dump: states    : 0
+* RM_Dump: tex_list  : 0
+* RM_Dump: matrices  : 0
+* RM_Dump: lst_constants: 0
+* RM_Dump: v_passes  : 0
+* RM_Dump: v_elements: 0
+* RM_Dump: v_shaders : 0
+refCount:pBaseZB 1
+refCount:pBaseRT 1
+DeviceREF: 1
